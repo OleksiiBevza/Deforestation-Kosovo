@@ -1,0 +1,1 @@
+To run mosaics file you need to install **SAGA - System for Automated Geoscientific Analyses**, add `saga_cmd` tp your environment variables, download Sentinel-1 GRD VV&VH images from https://explore.creodias.eu/  and try to run it. A code with some bugs which are expected to be ficed shortly.
