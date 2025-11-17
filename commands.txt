@@ -1,0 +1,16 @@
+conda activate Deforestation
+cd "C:\Users\oleks\Desktop\DEFORESTATION\CODE"
+dir
+python mosaic.py ^
+--in_tile MyAOI ^
+--backscatter_folder "C:\Users\oleks\Desktop\DEFORESTATION\CODE\input" ^
+--mosaic_folder "C:\Users\oleks\Desktop\DEFORESTATION\CODE\Mosaic" ^
+--aux_folder "C:\Users\oleks\Desktop\DEFORESTATION\CODE\auxiliary" ^
+--in_multipolygon_string "MultiPolygon(((20.8180 42.9770,21.5180 42.9770,21.5180 42.3770,20.8180 42.3770,20.8180 42.9770)))" ^
+--in_timeperiod "20240601-20241231"
+
+
+
+
+
+
